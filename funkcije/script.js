@@ -13,7 +13,7 @@ class Osoba {
   }
 
   predstaviSe() {
-    return "Ja sam ${this.ime} i imam ${this.godine} godina.";
+    return `Ja sam ${this.ime} i imam ${this.godine} godina.`;
   }
 }
 
